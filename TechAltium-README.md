@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://techaltium.co" target="_blank">
+    <img src="https://techaltium.co/samo-removebg-preview.jpg" width="110" alt="TechAltium Logo" />
+  </a>
+</p>
+
 <img width="100%" src="techaltium-banner.svg" alt="TechAltium banner" />
 
 <p align="center">
@@ -73,33 +79,37 @@ Custom dashboards, internal tools, and SaaS platforms tailored to startup and bu
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMonisSheikh&theme=react-dark&hide_border=true&area=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=TechAltium&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-> **Note:** Activity graph aapke org/company GitHub account ki repos activity reflect karta hai — agar TechAltium ka apna dedicated GitHub organization account hai to yahan uska username daal dein.
+> **Note:** Ye graph aapke official GitHub org `github.com/TechAltium` ki activity dikhata hai.
 
 ---
 
 ## 🌐 Connect With Us
 
 <p align="center">
-  <a href="https://portfolio-552de.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&labelColor=6A11CB" />
+  <a href="https://techaltium.co" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_TechAltium.co-000000?style=for-the-badge&labelColor=6A11CB" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://pk.linkedin.com/company/techaltium" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   &nbsp;
-  <a href="https://www.fiverr.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1DBF73" />
+  <a href="https://www.instagram.com/techaltium/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
   &nbsp;
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61581077005144" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" />
+  </a>
+  &nbsp;
+  <a href="mailto:techaltium@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
   &nbsp;
-  <a href="https://wa.me/923208600264" target="_blank">
+  <a href="https://wa.me/923208600294" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
   </a>
 </p>
