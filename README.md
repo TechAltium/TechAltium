@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=TechAltium&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Smart%2C%20Scalable%20%26%20AI-Powered%20Software&descAlignY=58&descSize=18" alt="header banner" />
+<img width="100%" src="techaltium-banner.svg" alt="TechAltium banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Development+Agency;MERN+%7C+Firebase+%7C+Supabase+%7C+AI+Apps;Turning+Ideas+Into+Scalable+Products;Based+in+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
@@ -108,4 +108,4 @@ Custom dashboards, internal tools, and SaaS platforms tailored to startup and bu
 
 <p align="center"><i>⭐️ Let's build your next big idea together!</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=100&section=footer" alt="footer banner" />
+<img width="100%" src="techaltium-footer.svg" alt="footer banner" />
